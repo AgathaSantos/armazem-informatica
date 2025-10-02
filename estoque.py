@@ -1,7 +1,6 @@
 from datetime import datetime
  
  
- 
 estoque = [
     {
         "codigo": 101,
@@ -143,4 +142,3 @@ def menu():
  
  
 menu()
- 
